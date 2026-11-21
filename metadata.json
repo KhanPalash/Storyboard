@@ -1,0 +1,6 @@
+{
+  "name": "StoryPrompt Studio",
+  "description": "AI Storyboard & Prompt Architect for external image and video generators with Story Bible continuity, aspect-ratio frame previewing, and Director AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
